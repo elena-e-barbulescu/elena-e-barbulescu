@@ -34,6 +34,10 @@ Some miscellaneous repos
 - [COVID19-notebooks](https://github.com/elena-e-barbulescu/COVID19-notebooks)
 - [WildfiresAustralia_CallforCode2020](https://github.com/elena-e-barbulescu/Wildfiresaustralia_CallforCode2020)
 
+For more information:
+- ⚡ My [Linkedin Profile](https://www.linkedin.com/in/barbulescuelena/)
+- ⚡ My Portfolio [Website](http://elenabarbulescu.com)
+
 <!--
 **elena-e-barbulescu/elena-e-barbulescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
