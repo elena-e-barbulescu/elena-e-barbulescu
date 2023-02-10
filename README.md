@@ -1,5 +1,15 @@
 ### Let me do a brief introduction! 🤓
 
+Before I dive into the details of this Github repo, I want to mention that I am an active writer on Linkedin and you'll find more information about me if you visit my profile.   
+
+- ⚡ My [Linkedin Profile](https://www.linkedin.com/in/barbulescuelena/)
+
+Addtionally, I now have a website of my own where I have showcased details about my data science projects and collaborations, my overall experience, skills, mindset, and other events such as honorary mentions and publications.
+
+- ⚡ My Portfolio [Website](http://elenabarbulescu.com)
+
+Now... for the formal introduction.
+
 I jumped from research in biology into data in healthcare.   Some years later, I found Data Science.
 And here I am.  I will attempt to lay out a landscape of my repos and what you can expect to find.
 
@@ -34,9 +44,6 @@ Some miscellaneous repos
 - [COVID19-notebooks](https://github.com/elena-e-barbulescu/COVID19-notebooks)
 - [WildfiresAustralia_CallforCode2020](https://github.com/elena-e-barbulescu/Wildfiresaustralia_CallforCode2020)
 
-For more information:
-- ⚡ My [Linkedin Profile](https://www.linkedin.com/in/barbulescuelena/)
-- ⚡ My Portfolio [Website](http://elenabarbulescu.com)
 
 <!--
 **elena-e-barbulescu/elena-e-barbulescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
