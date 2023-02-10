@@ -6,7 +6,7 @@ Before I dive into the details of this Github repo, I want to mention that I am 
 
 Addtionally, I now have a website of my own where I have showcased details about my data science projects and collaborations, my overall experience, skills, mindset, and other events such as honorary mentions and publications.
 
-- ⚡ My Portfolio [Website](http://elenabarbulescu.com)
+- ⚡ My [Portfolio Website](http://elenabarbulescu.com)
 
 Now... for the formal introduction.
 
