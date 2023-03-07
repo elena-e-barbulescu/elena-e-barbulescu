@@ -39,6 +39,7 @@ And here I am.  I will attempt to lay out a landscape of my repos and what you c
 
 🌱 Currently working on 🌱
 
+- Statistics - Hypothesis Testing & Case learning
 - SQL learning + Project Building... more to come soon.
 
 Some miscellaneous repos
