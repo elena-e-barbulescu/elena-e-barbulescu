@@ -38,12 +38,13 @@ And here I am.  I will attempt to lay out a landscape of my repos and what you c
 
 
 🌱 Currently working on 🌱
-- [data-engineering-zoomcamp-2023](https://github.com/elena-e-barbulescu/data-engineering-zoomcamp-2023) - Learning some bits and pieces of this zoomcamp for micro upskilling.   I took a stab at this in 2022 [Data-Engineering-Zoomcamp-2022](https://github.com/elena-e-barbulescu/Data-Engineering-ZoomCamp-2022). While I did not finish due to time constraints, I did learn something new.
+
+- SQL learning + Project Building... more to come soon.
 
 Some miscellaneous repos
 - [COVID19-notebooks](https://github.com/elena-e-barbulescu/COVID19-notebooks)
 - [WildfiresAustralia_CallforCode2020](https://github.com/elena-e-barbulescu/Wildfiresaustralia_CallforCode2020)
-
+- [data-engineering-zoomcamp-2023](https://github.com/elena-e-barbulescu/data-engineering-zoomcamp-2023) - Learning some bits and pieces of this zoomcamp for micro upskilling.   I took a stab at this in 2022 [Data-Engineering-Zoomcamp-2022](https://github.com/elena-e-barbulescu/Data-Engineering-ZoomCamp-2022). While I did not finish due to time constraints, I did learn something new.
 
 <!--
 **elena-e-barbulescu/elena-e-barbulescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
